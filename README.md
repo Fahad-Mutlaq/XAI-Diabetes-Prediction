@@ -8,7 +8,6 @@
     <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge" alt="XGBoost" /></a>
     <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge" alt="SHAP" /></a>
     <a href="https://www.vision2030.gov.sa/"><img src="https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge" alt="Saudi Vision 2030" /></a>
-    <img src="https://img.shields.io/badge/Project_Grade-A%2B-brightgreen?style=for-the-badge" alt="Grade A+" />
   </p>
 
   <p style="color: #c9d1d9; font-size: 1.1em; line-height: 1.6; margin-top: 15px;">
@@ -16,8 +15,11 @@
   </p>
 
   <p align="center">
-    <a href="docs/XAI-Diabetes-Prediction-Report.pdf">
+    <a href="docs/XAI-Diabetes-Prediction-Report.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_Technical_Report-PDF_Document-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Report" />
+    </a>
+    <a href="docs/XAI-Diabetes-Prediction-Report.pdf" download>
+      <img src="https://img.shields.io/badge/Download-PDF-10a37f?style=for-the-badge" alt="Download PDF" />
     </a>
   </p>
 
@@ -121,33 +123,25 @@ The system automatically maps mathematical data distributions into distinct, cli
 
 ### Execution Pipeline
 1. Clone the project environment structure to your workspace:
-   ```bash
-   git clone [https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction.git](https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction.git)
-   cd XAI-Diabetes-Prediction
-
-```
+    ```bash
+    git clone [https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction.git](https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction.git)
+    cd XAI-Diabetes-Prediction
+    ```
 
 2. Instantly install explicit library versions:
-```bash
-pip install -r requirements.txt
-
-```
-
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. Run the primary modeling script or step-by-step notebook structure to evaluate metrics and re-generate local/global SHAP plots:
-```bash
-python main.py
-
-```
-
-
+    ```bash
+    python main.py
+    ```
 
 ---
 
 ## Future Roadmap (Scalability & Cloud Evolution)
-
 To bridge the gap between academic prototyping and enterprise hospital integration:
-
 1. **Containerized API Gateway Deployment:** Wrapping the python pipeline inside a secure **Docker container** and scaling it via an **AWS API Gateway** or Azure endpoints utilizing modern TLS 1.3 encryption.
 2. **Real-time EHR Ingestion:** Linking model components directly to Electronic Health Record (EHR) database streams via specialized, IAM-controlled private ingestion adapters.
 3. **Optimized Edge Inferencing:** Compiling the finalized XGBoost structure via TensorRT/ONNX runtimes to perform locally on air-gapped **hospital edge devices**, preventing critical patient leakage across open public connections.
@@ -155,30 +149,29 @@ To bridge the gap between academic prototyping and enterprise hospital integrati
 ---
 
 ## Project Team & Academic Context
-
-Developed at **Qassim University** (Department of Information Technology)
-
+Developed at **Qassim University** (Department of Information Technology)  
 **Final Grade:** A+
 
 ### IT Engineering Team
-
-* **[Fahad Alharbi](https://www.google.com/search?q=https://www.linkedin.com/in/fahad-mu-alharbi)**
+* **[Fahad Alharbi](https://www.linkedin.com/in/fahad-mu-alharbi)**
 * **Abdulmajeed Abalkhail**
 * **Abdullah Altuwaijri**
 * **Abdulmohsen Aleid**
 
 ### Academic Supervision
-
 * **Dr. Manal Alghaith**
 
 ---
 
 ## License
-
 This project is formulated purely for academic research, validation, and educational portfolio application. Always ensure stringent compliance with global medical guidelines and statutory data acts (e.g., HIPAA) before managing live public patient analytics.
 
 ---
 
 ## Let's Connect
-
 Whether you're interested in collaborating, have questions about the secure ML pipelines, or want to discuss innovative IT healthcare solutions—feel free to reach out directly!
+
+<p align="left">
+  <a href="mailto:fahad.alharbi7@outlook.com"><img src="https://img.shields.io/badge/Outlook-Contact_Me-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Contact" /></a>
+  <a href="https://www.linkedin.com/in/fahad-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" /></a>
+</p>
