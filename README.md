@@ -14,8 +14,10 @@
     A secure, cloud-based predictive framework utilizing Explainable Artificial Intelligence (XAI) to provide highly sensitive, transparent, and clinically safe early diabetes risk assessments via a <b>Clinically Biased XGBoost Engine</b>.
   </p>
 
-  <p>
-    <a href="docs/XAI-Diabetes-Prediction-Report.pdf" style="padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📄 View Full Technical Report (PDF)</a>
+  <p align="center">
+    <a href="docs/XAI-Diabetes-Prediction-Report.pdf">
+      <img src="https://img.shields.io/badge/View_Technical_Report-PDF_Document-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Report" />
+    </a>
   </p>
 
 </div>
