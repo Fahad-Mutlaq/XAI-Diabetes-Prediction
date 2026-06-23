@@ -8,6 +8,7 @@
     <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge" alt="XGBoost" /></a>
     <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge" alt="SHAP" /></a>
     <a href="https://www.vision2030.gov.sa/"><img src="https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge" alt="Saudi Vision 2030" /></a>
+    <img src="https://img.shields.io/badge/Project_Grade-A%2B-brightgreen?style=for-the-badge" alt="Grade A+" />
   </p>
 
   <p style="color: #c9d1d9; font-size: 1.1em; line-height: 1.6; margin-top: 15px;">
@@ -15,10 +16,10 @@
   </p>
 
   <p align="center">
-    <a href="docs/XAI-Diabetes-Prediction-Report.pdf" target="_blank">
+    <a href="https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction/blob/main/docs/XAI-Diabetes-Prediction-Report.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_Technical_Report-PDF_Document-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Report" />
     </a>
-    <a href="docs/XAI-Diabetes-Prediction-Report.pdf" download>
+    <a href="https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction/raw/main/docs/XAI-Diabetes-Prediction-Report.pdf">
       <img src="https://img.shields.io/badge/Download-PDF-10a37f?style=for-the-badge" alt="Download PDF" />
     </a>
   </p>
