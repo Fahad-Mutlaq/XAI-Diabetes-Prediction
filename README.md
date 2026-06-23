@@ -2,11 +2,13 @@
 
   <h1>Early Prediction of Diabetes Risk Using Explainable AI (XAI)</h1>
 
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
-  <img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)" alt="Google Colab">
-  <img src="[https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge&logo=xgboost&logoColor=white](https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge&logo=xgboost&logoColor=white)" alt="XGBoost">
-  <img src="[https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge](https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge)" alt="SHAP">
-  <img src="[https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge](https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge)" alt="Saudi Vision 2030">
+  <p align="center">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
+    <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge" alt="XGBoost" /></a>
+    <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge" alt="SHAP" /></a>
+    <a href="https://www.vision2030.gov.sa/"><img src="https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge" alt="Saudi Vision 2030" /></a>
+  </p>
 
   <p style="color: #c9d1d9; font-size: 1.1em; line-height: 1.6; margin-top: 15px;">
     A secure, cloud-based predictive framework utilizing Explainable Artificial Intelligence (XAI) to provide highly sensitive, transparent, and clinically safe early diabetes risk assessments via a <b>Clinically Biased XGBoost Engine</b>.
@@ -156,5 +158,5 @@ To bridge the gap between academic prototyping and enterprise hospital integrati
 
 ---
 
-## 📝 License
+## License
 This project is formulated purely for academic research, validation, and educational portfolio application. Always ensure stringent compliance with global medical guidelines and statutory data acts (e.g., HIPAA) before managing live public patient analytics.
