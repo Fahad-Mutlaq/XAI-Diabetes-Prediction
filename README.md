@@ -2,15 +2,13 @@
 
   <h1>Early Prediction of Diabetes Risk Using Explainable AI (XAI)</h1>
 
-  <p>
-    <a href="[https://www.python.org/](https://www.python.org/)" target="_blank"><img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" alt="Python"></a>
-    <a href="[https://colab.research.google.com/](https://colab.research.google.com/)" target="_blank"><img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)" alt="Google Colab"></a>
-    <a href="[https://xgboost.readthedocs.io/](https://xgboost.readthedocs.io/)" target="_blank"><img src="[https://img.shields.io/badge/XGBoost-1279A5?style=flat-square](https://img.shields.io/badge/XGBoost-1279A5?style=flat-square)" alt="XGBoost"></a>
-    <a href="[https://shap.readthedocs.io/](https://shap.readthedocs.io/)" target="_blank"><img src="[https://img.shields.io/badge/SHAP_XAI-000000?style=flat-square](https://img.shields.io/badge/SHAP_XAI-000000?style=flat-square)" alt="SHAP"></a>
-    <a href="[https://www.vision2030.gov.sa/](https://www.vision2030.gov.sa/)" target="_blank"><img src="[https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=flat-square](https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=flat-square)" alt="Saudi Vision 2030"></a>
-  </p>
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
+  <img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)" alt="Google Colab">
+  <img src="[https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge&logo=xgboost&logoColor=white](https://img.shields.io/badge/XGBoost-1279A5?style=for-the-badge&logo=xgboost&logoColor=white)" alt="XGBoost">
+  <img src="[https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge](https://img.shields.io/badge/SHAP_XAI-000000?style=for-the-badge)" alt="SHAP">
+  <img src="[https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge](https://img.shields.io/badge/Saudi_Vision-2030-10a37f?style=for-the-badge)" alt="Saudi Vision 2030">
 
-  <p style="color: #c9d1d9; font-size: 1.1em; line-height: 1.6;">
+  <p style="color: #c9d1d9; font-size: 1.1em; line-height: 1.6; margin-top: 15px;">
     A secure, cloud-based predictive framework utilizing Explainable Artificial Intelligence (XAI) to provide highly sensitive, transparent, and clinically safe early diabetes risk assessments via a <b>Clinically Biased XGBoost Engine</b>.
   </p>
 
@@ -33,7 +31,7 @@ This repository contains the complete implementation and documentation for an ad
 
 ---
 
-## ⚙️ Repository Structure
+## Repository Structure
 The project is structured according to enterprise-grade layout principles to separate source code, documentation, and asset files:
 
 * `data/` — Contains the sanitized, pre-balanced cross-sectional survey dataset utilized for training.
@@ -121,54 +119,42 @@ The system automatically maps mathematical data distributions into distinct, cli
    ```bash
    git clone https://github.com/Fahad-Mutlaq/XAI-Diabetes-Prediction.git
    cd XAI-Diabetes-Prediction
-
-```
+   ```
 
 2. Instantly install explicit library versions:
-```bash
-pip install -r requirements.txt
-
-```
-
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the primary modeling script or step-by-step notebook structure to evaluate metrics and re-generate local/global SHAP plots:
-```bash
-python main.py
-
-```
-
-
+   ```bash
+   python main.py
+   ```
 
 ---
 
-## 📈 Future Roadmap (Scalability & Cloud Evolution)
-
+## Future Roadmap (Scalability & Cloud Evolution)
 To bridge the gap between academic prototyping and enterprise hospital integration:
-
 1. **Containerized API Gateway Deployment:** Wrapping the python pipeline inside a secure **Docker container** and scaling it via an **AWS API Gateway** or Azure endpoints utilizing modern TLS 1.3 encryption.
 2. **Real-time EHR Ingestion:** Linking model components directly to Electronic Health Record (EHR) database streams via specialized, IAM-controlled private ingestion adapters.
 3. **Optimized Edge Inferencing:** Compiling the finalized XGBoost structure via TensorRT/ONNX runtimes to perform locally on air-gapped **hospital edge devices**, preventing critical patient leakage across open public connections.
 
 ---
 
-## 👥 Project Team & Academic Context
-
+## Project Team & Academic Context
 * **Institution:** Qassim University, College of Computer, Department of Information Technology.
 * **Scope:** A project report submitted in partial fulfillment of the requirements for the B.Sc. degree in Information Technology (January 2026).
 
 ### IT Engineering Team
-
 * **Abdulmajeed Abalkhail**
 * **Fahad Alharbi**
 * **Abdullah Altuwaijri**
 * **Abdulmohsen Aleid**
 
 ### Academic Supervision
-
 * **Dr. Manal Alghaith**
 
 ---
 
 ## 📝 License
-
 This project is formulated purely for academic research, validation, and educational portfolio application. Always ensure stringent compliance with global medical guidelines and statutory data acts (e.g., HIPAA) before managing live public patient analytics.
