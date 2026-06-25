@@ -16,7 +16,7 @@ from sklearn.metrics import accuracy_score, recall_score, f1_score, roc_auc_scor
 # =========================================================
 # 1. Data Loading and Preparation
 # =========================================================
-file_path = 'Survey dataset labelled balnced data 3-5-2020.xls'
+file_path = 'data/Survey dataset labelled balnced data 3-5-2020.xls'
 df = pd.read_excel(file_path)
 
 if 'Region' in df.columns:
